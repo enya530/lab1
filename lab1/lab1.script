@@ -1,0 +1,19 @@
+Script started on 2015年03月10日 (週二) 17時47分02秒
+]0;F24026014@2015cpp: ~/lab1F24026014@2015cpp:~/lab1$ whoami; pwd
+F24026014
+/home/F24026014/lab1
+]0;F24026014@2015cpp: ~/lab1F24026014@2015cpp:~/lab1$ git config -l
+user.name=enya530
+user.email=f24026014@mail.ncku.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.lab1.url=http://github.com/enya530/lab1.git
+remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
+]0;F24026014@2015cpp: ~/lab1F24026014@2015cpp:~/lab1$ git clone http://github.com/<>e>n>y>a>5>3>0>[C[K[1Penya530[C[C[C[C[C[C[C/lan[Kb1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F24026014@2015cpp: ~/lab1F24026014@2015cpp:~/lab1$ exit
+
+Script done on 2015年03月10日 (週二) 17時48分21秒
